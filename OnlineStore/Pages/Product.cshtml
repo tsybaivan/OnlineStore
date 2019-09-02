@@ -1,0 +1,78 @@
+﻿@page "{name}"
+@model OnlineStore.Pages.ProductModel
+@{
+}
+
+<div class="hero">
+    <div class="hero-body">
+        <div class="container">
+            <div class="column is-6">
+                <figure class="image">
+                    <img src="~/images/apple.jpg" />
+                </figure>
+            </div>
+            <div class="column is-6">
+                <section class="content">
+                    <header>
+                        <p class="title">@Model.Product.Name</p>
+                        <p class="subtitle">@Model.Product.Description</p>
+                    </header>
+                    <p>
+                        Apple, (Malus domestica), fruit of the domesticated tree Malus domestica (family Rosaceae), one of the most widely cultivated tree fruits. The apple is a pome (fleshy) fruit, in which the ripened ovary and surrounding tissue both become fleshy and edible. The apple flower of most varieties requires cross-pollination for fertilization. When harvested, apples are usually roundish, 5–10 cm (2–4 inches) in diameter, and some shade of red, green, or yellow in colour; they vary in size, shape, and acidity depending on the variety.
+                    </p>
+                    <footer>
+                        <form method="post">
+
+                            <div class="field is-horizontal">
+                                <div class="field-label is-normal">
+                                    <label class="label">Size</label>
+                                </div>
+                                <div class="field-body">
+                                    <div class="field is-narrow">
+                                        <div class="control">
+                                            <div class="select is-fullwidth">
+                                                <select asp-for="CartViewModel.StockId">
+                                                    @foreach (var s in Model.Product.Stock)
+                                                    {
+                                                        <option value="@s.Id">@s.Description</option>
+                                                    }
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field is-horizontal">
+                                <div class="field-label is-normal">
+                                    <label class="label">Qty</label>
+                                </div>
+                                <div class="field-body">
+                                    <div class="field is-narrow">
+                                        <div class="control">
+                                            <input class="control" asp-for="CartViewModel.Qty" />
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field is-horizontal">
+                                <div class="field-label is-normal">
+                                    <div class="field-body">
+                                        <div class="field is-narrow">
+                                            <div class="control">
+                                                <button class="button is-success" type="submit">Submit</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </footer>
+                </section>
+            </div>
+         
+        </div>
+    </div>
+</div>
+
+@await Component.InvokeAsync("Cart")

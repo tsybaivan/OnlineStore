@@ -1,0 +1,37 @@
+﻿@page
+@model OnlineStore.Pages.CartModel
+@{
+}
+
+<div class="container">
+    <h2>Big cart component</h2>
+    @foreach (var product in Model.Cart)
+    {
+        <div class="level">
+            <div class="level-item">
+                <figure class="image is-128x128">
+                    <img src="~/images/apple.jpg" />
+                </figure>
+            </div>
+            <div class="level-item">
+                <p class="title">
+                    @product.Name
+                </p>
+            </div>
+            <div class="level-item">
+                <p>@product.Qty</p>
+            </div>
+            <div class="level-item">
+                <p>@product.Value</p>
+            </div>
+            <div class="level-item">
+
+            </div>
+
+        </div>
+    
+    }
+
+</div>
+
+<vc:cart view="Small"></vc:cart>
