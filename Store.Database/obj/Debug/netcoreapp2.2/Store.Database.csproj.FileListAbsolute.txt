@@ -1,0 +1,14 @@
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\bin\Debug\netcoreapp2.2\Store.Database.deps.json
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\bin\Debug\netcoreapp2.2\Store.Database.dll
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\bin\Debug\netcoreapp2.2\Store.Database.pdb
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\bin\Debug\netcoreapp2.2\Store.Domain.dll
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\bin\Debug\netcoreapp2.2\Store.Domain.pdb
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\obj\Debug\netcoreapp2.2\Store.Database.csprojAssemblyReference.cache
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\obj\Debug\netcoreapp2.2\Store.Database.csproj.CoreCompileInputs.cache
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\obj\Debug\netcoreapp2.2\Store.Database.AssemblyInfoInputs.cache
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\obj\Debug\netcoreapp2.2\Store.Database.AssemblyInfo.cs
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\obj\Debug\netcoreapp2.2\Store.Database.csproj.CopyComplete
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\obj\Debug\netcoreapp2.2\Store.Database.dll
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\obj\Debug\netcoreapp2.2\Store.Database.pdb
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\bin\Debug\netcoreapp2.2\Store.Database.runtimeconfig.json
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Database\bin\Debug\netcoreapp2.2\Store.Database.runtimeconfig.dev.json

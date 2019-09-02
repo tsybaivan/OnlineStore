@@ -1,0 +1,16 @@
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Store.Application.deps.json
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Store.Application.dll
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Store.Application.pdb
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Store.Database.dll
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Store.Domain.dll
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Store.Database.pdb
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Store.Domain.pdb
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\obj\Debug\netcoreapp2.2\Store.Application.csprojAssemblyReference.cache
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\obj\Debug\netcoreapp2.2\Store.Application.csproj.CoreCompileInputs.cache
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\obj\Debug\netcoreapp2.2\Store.Application.AssemblyInfoInputs.cache
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\obj\Debug\netcoreapp2.2\Store.Application.AssemblyInfo.cs
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\obj\Debug\netcoreapp2.2\Store.Application.csproj.CopyComplete
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\obj\Debug\netcoreapp2.2\Store.Application.dll
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\obj\Debug\netcoreapp2.2\Store.Application.pdb
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\itsybatc\source\repos\OnlineStore\Store.Application\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
